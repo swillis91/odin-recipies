@@ -1,0 +1,11 @@
+2023-08-09 15:32:12.967 [error] electron #388: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-09 15:32:12.968 [error] electron #386: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-09 15:32:12.981 [error] electron #387: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
+2023-08-09 15:32:12.986 [error] browser #27: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed
+2023-08-09 15:32:18.924 [error] electron #389: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2023-08-09 17:02:57.782 [error] electron #420: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-09 17:03:03.860 [error] electron #423: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2023-08-10 17:59:58.181 [error] electron #479: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-10 17:59:58.181 [error] electron #477: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-10 17:59:58.186 [error] electron #478: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
+2023-08-10 17:59:58.186 [error] browser #5: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed

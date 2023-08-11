@@ -1,0 +1,12 @@
+
+body{
+    color: rgb(0, 191, 255);
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+p{
+    color: blueviolet;
+    background-color: slategray;
+}

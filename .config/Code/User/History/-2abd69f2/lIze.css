@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color:aqua;
+    text-align: center;
+    font-family:cursive;
+    font-style: oblique;
+}
+
+.heading{
+    color: rgba(0, 0, 0, 0.974);
+    border: 2px solid rgb(244, 247, 247);
+    background-image: url('Images/banner.jpg');
+    height: 75px;
+    margin: 0 auto;
+    padding:50px 20px; 
+    
+}
+
+.care{
+    text-align: justify;
+    width: 600px;
+
+}

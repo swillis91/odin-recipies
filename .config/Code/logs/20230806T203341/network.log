@@ -1,0 +1,3 @@
+2023-08-07 16:37:37.889 [error] electron #9: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-07 16:37:38.053 [error] electron #10: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-07 16:37:44.577 [error] electron #11: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED

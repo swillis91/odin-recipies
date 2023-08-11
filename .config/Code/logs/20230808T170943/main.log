@@ -1,0 +1,37 @@
+2023-08-08 17:09:43.588 [info] update#setState idle
+2023-08-08 17:10:13.591 [info] update#setState checking for updates
+2023-08-08 17:10:13.647 [info] update#setState idle
+2023-08-08 17:14:49.601 [info] Extension host with pid 4552 exited with code: 0, signal: unknown.
+2023-08-08 17:15:20.004 [info] Extension host with pid 4844 exited with code: 0, signal: unknown.
+2023-08-08 17:29:53.997 [info] Extension host with pid 4882 exited with code: 0, signal: unknown.
+2023-08-08 17:29:54.013 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 4876]: crashed with code 15 and reason 'killed'
+2023-08-08 17:33:13.536 [info] Extension host with pid 5335 exited with code: 0, signal: unknown.
+2023-08-08 18:10:13.595 [info] update#setState checking for updates
+2023-08-08 18:10:13.765 [info] update#setState idle
+2023-08-08 19:10:12.849 [info] update#setState checking for updates
+2023-08-08 19:10:13.286 [info] update#setState idle
+2023-08-09 15:32:12.707 [info] update#setState checking for updates
+2023-08-09 15:32:12.968 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-09 15:32:12.980 [info] update#setState idle
+2023-08-09 17:02:58.269 [info] update#setState checking for updates
+2023-08-09 17:02:57.782 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-09 17:02:57.782 [info] update#setState idle
+2023-08-09 17:19:36.301 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-09 17:19:36.302 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5394]: crashed with code 15 and reason 'killed'
+2023-08-09 17:19:36.328 [info] Extension host with pid 5379 exited with code: 0, signal: unknown.
+2023-08-09 17:20:12.741 [info] Extension host with pid 6971 exited with code: 0, signal: unknown.
+2023-08-09 17:20:12.745 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 6960]: crashed with code 15 and reason 'killed'
+2023-08-09 18:02:57.708 [info] update#setState checking for updates
+2023-08-09 18:02:57.907 [info] update#setState idle
+2023-08-09 18:06:05.065 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2023-08-09 18:06:43.205 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2023-08-09 18:25:25.411 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2023-08-10 17:59:57.755 [info] update#setState checking for updates
+2023-08-10 17:59:58.181 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-10 17:59:58.185 [info] update#setState idle

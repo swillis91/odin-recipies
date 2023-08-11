@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/sesclv/README.md" added="2023-08-07T23:13:32.269039Z" modified="2023-08-07T23:13:32.269049Z" visited="2023-08-07T23:13:32.269040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-08-07T23:13:32.269043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sesclv/repos/odin-recipies" added="2023-08-07T23:14:29.532183Z" modified="2023-08-07T23:14:29.532192Z" visited="2023-08-07T23:14:29.532184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-08-07T23:14:29.532186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sesclv/NewRepo" added="2023-08-08T23:15:19.934740Z" modified="2023-08-08T23:15:19.934749Z" visited="2023-08-08T23:15:19.934741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-08-08T23:15:19.934744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sesclv/NewRepo/Test%20file%201" added="2023-08-08T23:15:44.993889Z" modified="2023-08-08T23:15:44.993898Z" visited="2023-08-08T23:15:44.993891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-08-08T23:15:44.993893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sesclv/Planty%20Page" added="2023-08-09T23:20:12.666396Z" modified="2023-08-09T23:20:12.666407Z" visited="2023-08-09T23:20:12.666398Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-08-09T23:20:12.666401Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sesclv/Planty%20Page/index.html" added="2023-08-09T23:20:30.399038Z" modified="2023-08-09T23:20:30.399044Z" visited="2023-08-09T23:20:30.399039Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-08-09T23:20:30.399041Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
