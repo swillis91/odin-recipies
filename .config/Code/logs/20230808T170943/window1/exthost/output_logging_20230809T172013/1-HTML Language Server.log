@@ -31,3 +31,68 @@ Error: Range#create called with invalid arguments[[object Object], [object Objec
     at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
     at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
     at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:25:18 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/calatheas.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:25:19 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/calatheas.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:25:57 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/calatheas.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:25:58 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/calatheas.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:47:53 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/philodendrons.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798600
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798612)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:47:53 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/philodendrons.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:47:54 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/philodendrons.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235
+[Error - 5:47:57 PM] Error while computing completions for file:///home/sesclv/Planty%20Page/philodendrons.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1275366)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798723)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798000)
+    at Y.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799513)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372158)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1358235

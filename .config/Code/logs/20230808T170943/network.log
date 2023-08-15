@@ -9,3 +9,14 @@
 2023-08-10 17:59:58.181 [error] electron #477: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
 2023-08-10 17:59:58.186 [error] electron #478: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
 2023-08-10 17:59:58.186 [error] browser #5: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed
+2023-08-11 16:42:17.070 [error] electron #526: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-11 21:59:03.927 [error] electron #564: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-11 21:59:03.932 [error] electron #562: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-11 21:59:03.939 [error] electron #563: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
+2023-08-12 07:50:09.998 [error] electron #567: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-12 07:50:09.999 [error] electron #565: https://update.code.visualstudio.com/api/update/linux-x64/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97 - error undefined net::ERR_NETWORK_CHANGED
+2023-08-12 07:50:10.008 [error] electron #566: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
+2023-08-14 17:03:53.896 [error] electron #595: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-14 17:03:53.907 [error] electron #596: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED
+2023-08-14 18:26:05.764 [error] electron #628: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-08-14 18:26:05.772 [error] electron #627: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_NETWORK_CHANGED

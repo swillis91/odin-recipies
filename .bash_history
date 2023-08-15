@@ -37,3 +37,8 @@ git push -u origin main
 apt install git
 apt-get update
 apt install git
+git --version
+sudo apt-get install gnome-keyring
+git config --global user.name "swillis91"
+git confic --global user.email "sesclv@gmail.com"
+git config --global user.email "sesclv@gmail.com"

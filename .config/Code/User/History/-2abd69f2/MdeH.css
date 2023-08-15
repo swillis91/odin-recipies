@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(126, 152, 127);
+    color:black;
+    text-align: center;
+    font-family:cursive;
+    font-style: oblique;
+}
+
+.heading{
+    color: rgba(0, 0, 0, 0.974);
+    border: 2px solid rgb(0, 3, 3);
+    background-image: url('Images/banner.jpg');
+    height: 75px;
+    margin: 0 auto;
+    padding:50px 20px; 
+    
+}
+
+div.box{
+    border:2px solid black;
+    display: flex;
+    margin-left: auto;
+}
+
+#calathea-makoyana{
+    width: 500px;
+    Height: auto:
+}
+
+.navigation{
+    color:rgb(216, 247, 217);
+    text-decoration: none;
+}

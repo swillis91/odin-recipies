@@ -773,7 +773,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -1675,26 +1676,26 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#002b36",
+    "themeBackground": "#0d1117",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#002b36",
-            "editorBackground": "#002b36",
-            "titleBarBackground": "#002c39",
-            "activityBarBackground": "#003847",
-            "sideBarBackground": "#00212b",
-            "statusBarBackground": "#00212b",
-            "statusBarNoFolderBackground": "#00212b"
+            "foreground": "#e6edf3",
+            "background": "#0d1117",
+            "editorBackground": "#0d1117",
+            "titleBarBackground": "#0d1117",
+            "activityBarBackground": "#0d1117",
+            "sideBarBackground": "#010409",
+            "statusBarBackground": "#0d1117",
+            "statusBarNoFolderBackground": "#0d1117"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 256,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
